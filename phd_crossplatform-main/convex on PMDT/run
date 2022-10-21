@@ -1,0 +1,2 @@
+g++ -o main main.cpp -I/usr/local/include -L/usr/local/lib -ldace -lgsl -std=c++11 
+./main
